@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # 👋 Hi, I'm Ilinca Martole
 
 I'm a **student** passionate about **learning and developing skills across all areas of IT**. From web development to low-level programming, I love exploring new technologies and building cool projects along the way! 🚀
@@ -25,21 +22,13 @@ I'm currently learning:
 
 ---
 
-
----
-
 ## 📂 Projects & Repositories
 
 Here are some highlights from my GitHub:
 
-- [Python Projects](https://github.com/ilincamartole?tab=repositories&q=&type=&language=Python) – Various scripts and web apps  
-- [C++ & Assembly](https://github.com/ilincamartole?tab=repositories&q=&type=&language=C%2B%2B) – Systems and algorithms  
-- [SQL & Databases](https://github.com/ilincamartole?tab=repositories&q=&type=&language=PLSQL) – Database exercises and queries
-
+- **Airline-Management-System-with-SQL** — Airline management system using PLSQL for database operations and queries.  
+- **XML-parser** — A Shell script project for parsing and processing XML files.  
+- **Site-Telefonie---Django-Telecom-Platform** — A Django web application simulating a telecom platform.  
+- **2048GAME** — Classic 2048 game implemented in C++.  
 ---
 
-
-
-## 📊 GitHub Stats
-
-![Ilinca's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilincamartole&show_icons=true&theme=radical)
