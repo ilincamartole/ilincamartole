@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Ilinca Martole
 
-I'm a **student** passionate about **learning and developing skills across all areas of IT**. From web development to low-level programming, I love exploring new technologies and building cool projects along the way! 🚀
+I'm a **student** passionate about **learning and developing skills across all areas of IT**. From web development to low-level programming, I love exploring new technologies and building cool projects along the way!
 
 ---
 
-## 💻 Skills & Technologies
+## Skills & Technologies
 
 - **Programming Languages:** Python, C++, Assembly, Shell, SQL, HTML/CSS  
 - **Frameworks & Tools:** Django, Git, Linux  
@@ -12,7 +12,7 @@ I'm a **student** passionate about **learning and developing skills across all a
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 I'm currently learning:
 
 - **Artificial Intelligence** – fundamentals and practical AI projects  
@@ -22,7 +22,7 @@ I'm currently learning:
 
 ---
 
-## 📂 Projects & Repositories
+## Projects & Repositories
 
 Here are some highlights from my GitHub:
 
