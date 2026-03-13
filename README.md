@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 # 👋 Hi, I'm Ilinca Martole
 
 I'm a **student** passionate about **learning and developing skills across all areas of IT**. From web development to low-level programming, I love exploring new technologies and building cool projects along the way! 🚀
