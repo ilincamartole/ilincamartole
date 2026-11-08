@@ -18,7 +18,7 @@
 Here are some highlights from my GitHub:
 
 - **Airline-Management-System-with-SQL** — Airline management system using PLSQL for database operations and queries.  
-- **XML-parser** — A Shell script project for parsing and processing XML files.  
+- **AuctionSystem** — A simulated Auction System using OOP and Java.
 - **Site-Telefonie---Django-Telecom-Platform** — A Django web application simulating a telecom platform.  
 - **2048GAME** — Classic 2048 game implemented in C++.  
 ---
